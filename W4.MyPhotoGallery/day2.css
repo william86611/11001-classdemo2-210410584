@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.line3 img {
+  width: 30%;
+  margin: 1.5%;
+}
+
+.un1 img {
+  width: 95%;
+  margin: 2%;
+}
